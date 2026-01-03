@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "Web Development"],
+    "duration": "1 hour",
+    "description": "A deep dive into the latest trends and future directions of popular JavaScript frameworks."
+  },
+  {
+    "title": "Scalable Backend APIs with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "Backend"],
+    "duration": "1 hour",
+    "description": "Learn how to build and deploy scalable and resilient backend APIs using Node.js and modern best practices."
+  },
+  {
+    "title": "Introduction to Machine Learning in the Browser",
+    "speakers": ["Emily White", "David Green"],
+    "category": ["Machine Learning", "JavaScript", "AI"],
+    "duration": "1 hour",
+    "description": "Discover the power of running machine learning models directly in the browser with TensorFlow.js."
+  },
+  {
+    "title": "Modern CSS: Beyond Flexbox and Grid",
+    "speakers": ["Michael Brown"],
+    "category": ["CSS", "Web Design"],
+    "duration": "1 hour",
+    "description": "Explore new and upcoming CSS features that will change the way you design websites."
+  },
+  {
+    "title": "The Rise of Serverless Architectures",
+    "speakers": ["Sarah Jones"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": "1 hour",
+    "description": "An overview of serverless computing, its benefits, and how to get started with building serverless applications."
+  },
+  {
+    "title": "WebAssembly: The Next Frontier",
+    "speakers": ["Chris Wilson"],
+    "category": ["WebAssembly", "Performance"],
+    "duration": "1 hour",
+    "description": "Learn how WebAssembly is enabling near-native performance for web applications and what the future holds."
+  }
+]
